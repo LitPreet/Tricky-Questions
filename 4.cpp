@@ -1,4 +1,4 @@
-// C++ program to print all natural numbers upto
+// C++ Program to print all natural numbers upto
 // N without using semi-colon
 #include<iostream>
  

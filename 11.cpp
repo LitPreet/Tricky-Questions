@@ -1,4 +1,4 @@
-
+//C++ Program to read student data into array of strucutre from a text file.
 #include<iostream>
 #include<string>
 #include<fstream>

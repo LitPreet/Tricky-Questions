@@ -1,6 +1,6 @@
 
 // C++ program to find if machine is little
-// endian or big endian.
+// endian or big endian
  
 #include <iostream>
  
